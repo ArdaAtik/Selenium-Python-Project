@@ -1,0 +1,16 @@
+
+
+tr {
+   background: #545452;
+}
+
+td > a{
+   display: block;
+   text-decoration: none;
+   color: #D7DADC
+
+}
+td > a:hover{
+   text-decoration: none;
+     color:#D7DADC
+}
